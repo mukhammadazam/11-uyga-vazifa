@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+    
+}
+body{
+    margin: 0;
+}
+
+.contaener{
+    width: 1200px;
+    margin: 0 auto;
+    background-color: red;
+
+}
