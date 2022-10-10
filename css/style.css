@@ -4,11 +4,24 @@
 }
 body{
     margin: 0;
+    background-color: red;
 }
 
 .contaener{
     width: 1200px;
     margin: 0 auto;
-    background-color: red;
+  
 
+}
+
+ol{
+    background-color: grey;
+    width: 800px;
+    margin: 0 auto;
+}
+li{
+    margin: 20px;
+    border: 2px solid black;
+    padding: 20px;
+    list-style: none;
 }
